@@ -1,7 +1,10 @@
 # Site settings
-name: Everitt Creative Processing
+name: Everitt Creative
+title: Processing
+email: everitt.matt@me.com
+username: everitmatt
 description: "This site documents the Processing Experiments of Matthew Everitt, a Media Designer based in Wellington, NZ. Currently studying a Masters of Design Innovation."
-baseurl: "http://everitmatt.github.io/everitt-creative-processing"
+baseurl: "http://everitmatt.github.io/processing"
 
 # Build settings
 markdown: rdiscount
