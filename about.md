@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Matthew Everitt is a Media Designer currently studying a Master of Design Innovation at the School of Architecture and Design, at Victoria University of Wellingon, New Zealand.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Experimenting with Processing is developing his passion for interactive visual arts. While also providing valuable insight for his Masters research.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This website has been created using [Jekyll](http://jekyllrb.com) and [Github Pages.](https://pages.github.com)
