@@ -1,0 +1,9 @@
+# Site settings
+name: Everitt Creative Processing
+description: "This site documents the work of Matthew Everitt, a Media Designer based in Wellington, NZ. Currently studying a Masters of Design Innovation."
+baseurl: "http://everitmatt.github.io/everitt-creative-processing"
+
+# Build settings
+markdown: rdiscount
+permalinks: pretty
+highlighter: pygments
