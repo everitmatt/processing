@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Creative Processing!"
-date:   2014-05-19 13:51:11
+date:   2014-05-10 13:51:11
 blurb: "This is a blog site setup through Github Pages to host a collection of creative Processing sketches."
 ---
 

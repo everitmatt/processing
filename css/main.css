@@ -28,7 +28,7 @@ a:visited { color: #205caa; }
 .wrap:after { content:""; display:table; }
 .wrap:after { clear: both; }
 .wrap {
-  max-width: 800px;
+  max-width: 1000px;
   padding: 0 30px;
   margin: 0 auto;
   zoom: 1;
@@ -102,6 +102,7 @@ a:visited { color: #205caa; }
 .site-footer {
   border-top: 1px solid #e8e8e8;
   padding: 30px 0;
+  background-color: #333;
 }
 
 .footer-heading {
@@ -109,6 +110,7 @@ a:visited { color: #205caa; }
   font-weight: 300;
   letter-spacing: -.5px;
   margin-bottom: 15px;
+  color: #828282;
 }
 
 .site-footer .column { float: left; margin-bottom: 15px; }
@@ -162,8 +164,6 @@ a:visited { color: #205caa; }
   max-width: 1280px;
   margin: 0 auto;
   padding-top: 56px;
-  border-bottom: 1px solid #e8e8e8;
-  background-color: white;
   overflow: hidden;
 }
 
@@ -180,10 +180,42 @@ a:visited { color: #205caa; }
   float: left;
   position: relative;
 }
-.slide img{
+
+.slide img {
   width: 100%;
   height: auto;
 }
+
+.slide-title-bar {
+  position: absolute;
+  width: 100%;
+  top: 25%;
+  z-index: 1;
+}
+
+.slide-title {
+  position: relative;
+  width: 1000px;
+  margin: 0 auto;
+  padding: 0 30px;
+  font-size: 50px;
+  letter-spacing: -1px;
+  line-height: 1;
+}
+
+.slide-date {
+  position: relative;
+  width: 1000px;
+  margin: 0 auto;
+  padding: 0 30px;
+  line-height: 1;
+  display: block;
+  font-size: 15px;
+}
+
+.slide a { color: #333; text-decoration: none; }
+.slide a:hover { color: #333; text-decoration: none; }
+.slider a:visited { color: #333 ; text-decoration: none; }
 
 
 /* Page Content styles */
@@ -206,21 +238,37 @@ a:visited { color: #205caa; }
 .posts li { margin-bottom: 30px; }
 
 .posts img {
-  width:100%;
+  width: 60%;
   max-width: 800px;
+  padding: 0 30px;
+  float: left;
+  padding-bottom: 30px;
+}
+
+.posts .post-info {
+  width: 300px;
+  float: left;
+  padding-bottom: 30px;
 }
 
 .posts .post-link {
+  display: block;
   font-size: 24px;
   letter-spacing: -1px;
   line-height: 1;
+  border-bottom: 1px solid #e8e8e8;
 }
 
 .posts .post-date {
   display: block;
   font-size: 15px;
   color: #818181;
-  border-top: 1px solid #e8e8e8;
+}
+
+.posts .post-blurb {
+  display: block;
+  font-size: 15px;
+  line-height: 1.1;
 }
 
 
