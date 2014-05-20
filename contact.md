@@ -4,4 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
-everitt.matt@me.com
+Matthew Everitt
+---------------
+
+website: [Everitt Creative](http://everitmatt.github.io)
+
+email: [everitt.matt@me.com](mailto:everitt.matt@me.com)
